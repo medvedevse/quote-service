@@ -5,7 +5,7 @@ import (
 	"net/http/httptest"
 	"testing"
 
-	"quote-service/internal/handler"
+	"github.com/medvedevse/quote-service/internal/handler"
 )
 
 func TestGetQuotes(t *testing.T) {

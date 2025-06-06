@@ -1,7 +1,7 @@
 package router
 
 import (
-	"quote-service/internal/handler"
+	"github.com/medvedevse/quote-service/internal/handler"
 
 	"github.com/gorilla/mux"
 )

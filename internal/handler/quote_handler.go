@@ -7,8 +7,8 @@ import (
 	"math/rand"
 	"net/http"
 
-	"quote-service/internal/model"
-	"quote-service/internal/repository"
+	"github.com/medvedevse/quote-service/internal/model"
+	"github.com/medvedevse/quote-service/internal/repository"
 
 	"github.com/gorilla/mux"
 )

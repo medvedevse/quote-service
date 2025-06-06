@@ -1,6 +1,6 @@
 package repository
 
-import "quote-service/internal/model"
+import "github.com/medvedevse/quote-service/internal/model"
 
 func QuoteRepository() []model.Quote {
 	var quotes []model.Quote

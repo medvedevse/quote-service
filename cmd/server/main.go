@@ -4,7 +4,7 @@ import (
 	"log"
 	"net/http"
 
-	"quote-service/internal/router"
+	"github.com/medvedevse/quote-service/internal/router"
 )
 
 func main() {

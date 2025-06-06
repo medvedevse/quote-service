@@ -1,4 +1,4 @@
-module quote-service
+module github.com/medvedevse/quote-service
 
 go 1.24.3
 
